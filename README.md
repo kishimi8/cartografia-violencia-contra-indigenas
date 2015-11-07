@@ -6,7 +6,7 @@ Requirements:
 
 * [Mapbox Studio](https://www.mapbox.com/mapbox-studio)
 
-Download or clone this repository locally:
+[Download](https://github.com/InfoAmazonia/cartografia-violencia-contra-indigenas/archive/master.zip) or clone this repository locally:
 
     git clone git@github.com:InfoAmazonia/cartografia-violencia-contra-indigenas.git
 
